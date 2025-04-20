@@ -1,0 +1,1 @@
+https://www.kaggle.com/code/deepakvk18/credit-default-risk/input?select=loan_data_2015.csv
